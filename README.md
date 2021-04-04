@@ -24,8 +24,8 @@
 
 <p align="center">
 <a href="https://github.com/vicban14">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vicban14&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=stars,issues,contribs"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicban14&theme=algolia&count_private=true&langs_count=10&layout=compact"/>
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vicban14&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=stars,issues,contribs"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicban14&theme=algolia&count_private=true&langs_count=10&layout=compact"/>
 </a>
 </p>
 
