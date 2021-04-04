@@ -32,5 +32,5 @@
 ### 🤝🏻 Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/victor-banuls/"></a>
+<a href="https://www.linkedin.com/in/victor-banuls/"><img src="https://www.flaticon.es/svg/vstatic/svg/174/174857.svg?token=exp=1617537447~hmac=298dd6269e25454b88661556a652beb9"/></a>
 </p>
